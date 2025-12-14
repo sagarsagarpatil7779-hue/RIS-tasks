@@ -1,0 +1,85 @@
+{
+    "patients": {
+        "101": {
+            "name": "Sagar",
+            "diagnosis": "Fever",
+            "medications": [
+                "Paracetamol",
+                "Vitamin C"
+            ]
+        },
+        "102": {
+            "name": "Aishwaraya",
+            "diagnosis": "Diabetes",
+            "medications": [
+                "Insulin",
+                "Metformin"
+            ]
+        },
+        "103": {
+            "name": "Anil",
+            "diagnosis": "Cold",
+            "medications": [
+                "Paracetamol"
+            ]
+        },
+        "104": {
+            "name": "veeresh",
+            "diagnosis": "Asthma",
+            "medications": [
+                "Inhaler"
+            ]
+        },
+        "105": {
+            "name": "soumay",
+            "diagnosis": "Malaria",
+            "medications": [
+                "Chloroquine"
+            ]
+        },
+        "106": {
+            "name": "Pooja",
+            "diagnosis": "Headache",
+            "medications": [
+                "Ibuprofen"
+            ]
+        },
+        "107": {
+            "name": "Christopher",
+            "diagnosis": "Heart Disease",
+            "medications": [
+                "Aspirin",
+                ""
+            ]
+        },
+        "108": {
+            "name": "Chris hemwarth",
+            "diagnosis": "Allergy",
+            "medications": [
+                "Antihistamine"
+            ]
+        },
+        "109": {
+            "name": "Jhonny depp",
+            "diagnosis": "Back Pain",
+            "medications": [
+                "Painkiller"
+            ]
+        },
+        "110": {
+            "name": "Robert downey Jr",
+            "diagnosis": "Thyroid",
+            "medications": [
+                "Thyroxine"
+            ]
+        }
+    },
+    "appointments": [
+        [
+            "2025-12-14",
+            "10:20",
+            "sagar patil",
+            "110"
+        ]
+    ]
+}

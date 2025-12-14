@@ -1,0 +1,6 @@
+2025-12-14T15:32:41 - Patients loaded from patients.csv | LOAD_PATIENTS
+2025-12-14T15:33:57 - Appointment scheduled for ID 110 | ADD_APPOINTMENT | 2025-12-14 | 10:20 | sagar patil | 110
+2025-12-14T15:34:11 - Generated treatment report by diagnosis | TREATMENT_REPORT
+2025-12-14T15:34:22 - Backup saved to backup.json | BACKUP_OK
+2025-12-14T15:34:32 - Data restored from backup.json | RESTORE_OK
+2025-12-14T15:34:40 - Rolled back 1 actions | ROLLBACK_DONE
