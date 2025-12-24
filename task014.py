@@ -19,7 +19,7 @@ standard_r=np.std(daily_return)
 print(mean_r)
 print(standard_r)
 
-#top positive and negative 
+#top Five positive and negative 
 
 top_five_p=np.argsort(daily_return)[-5:][::-1]
 top_five_n=np.argsort(daily_return)[:5]
@@ -38,4 +38,5 @@ plt.title("histogram of daily stock returns ")
 plt.xlabel("daily returns")
 plt.ylabel("Frequency")
 plt.grid(True)
+
 plt.show()
