@@ -16,4 +16,5 @@
 16. Hospital-Patient-Management-System
 17. Diamond problem
 18. stock market data analysis
+19. dice_rolling_using_numpy
 
