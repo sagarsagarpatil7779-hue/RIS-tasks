@@ -17,4 +17,5 @@
 17. Diamond problem
 18. stock market data analysis
 19. dice_rolling_using_numpy
+20. Titanic_analysis
 
