@@ -1,0 +1,11 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+1,15634602,Sagar,619,India,Male,42,2,0.00,1,1,1,101348.88,1
+2,15647311,Sam altman,608,Spain,Male,41,1,83807.86,1,0,1,112542.58,0
+3,15619304,jhony,502,France,Male,42,8,159660.80,3,1,0,113931.57,1
+4,15701354,Ashoka,699,India,Male,39,1,0.00,2,0,0,93826.63,0
+5,15737888,Mitchell,850,Spain,Male,43,2,125510.82,1,1,1,79084.10,0
+6,15574012,ching ping,645,Germany,Male,44,8,113755.78,2,1,0,149756.71,1
+7,15592531,Bart,822,France,Male,50,7,0.00,2,1,1,10062.80,0
+8,15656148,Krishan,376,India,Male,29,4,115046.74,4,1,0,119346.88,1
+9,15792365,Hanu,501,India,Male,44,4,142051.07,2,0,1,74940.50,0
+10,15592389,anna,684,Spain,Female,27,2,134603.88,1,1,1,71725.73,0
